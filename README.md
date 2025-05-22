@@ -30,11 +30,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuragIndora&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragIndora&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragIndora&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
@@ -71,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnuragIndora&theme=radical&no-frame=true&margin-w=4" />
 </p>
 
 ---
